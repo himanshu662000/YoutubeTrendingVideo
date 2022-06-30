@@ -1,5 +1,5 @@
 # Youtube Trending Video using YouTube API
-### Here we used html,javascript and bootstrap to make this project and with the help of youtube api we were able to get this data
+#### Here we used html,javascript and bootstrap to make this project and with the help of youtube api we were able to get this data
 
 ## You can get the trending videos of this day and also can filter with different genere
 
